@@ -1,4 +1,4 @@
-# MLOps Roadmap 2024
+# MLOps Roadmap 2024 
 
 ## 1. Programming
 Programming skills are crucial for an MLOps engineer. Python is the most commonly used language in machine learning, making it important for collaboration with machine learning engineers and data scientists.
